@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "813787488400",
+    "firebase_url": "https://emailauth-5d78d-default-rtdb.firebaseio.com",
+    "project_id": "emailauth-5d78d",
+    "storage_bucket": "emailauth-5d78d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813787488400:android:3a7156c6131c3323833815",
+        "android_client_info": {
+          "package_name": "com.example.emailauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813787488400-jfc7q2ive5at83gdfh0acflfhjp20u9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emailauth",
+            "certificate_hash": "8d5d087e203b0116d5483c2cb483492968857c1b"
+          }
+        },
+        {
+          "client_id": "813787488400-rs8jtctk38jg1en45k8b7uefto370hlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsxOlR1uRbtBB6DV4lDtaDuyUQXidlDE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813787488400-rs8jtctk38jg1en45k8b7uefto370hlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

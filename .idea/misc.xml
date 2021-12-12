@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/drawable/ic_email.xml" value="0.16140350877192983" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16140350877192983" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/drawable/ic_phone.xml" value="0.16140350877192983" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/drawable/option_button_shape.xml" value="0.16140350877192983" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/drawable/option_button_style.xml" value="0.16140350877192983" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/drawable/splash_phrase_shape.xml" value="0.16140350877192983" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/layout/activity_email_sign_in.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/layout/activity_email_sign_up.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/layout/activity_forgot_password.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/layout/activity_google_sign.xml" value="0.14780701754385964" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/layout/activity_phone_sign.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/layout/activity_phone_sign_in.xml" value="0.22" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/layout/activity_phone_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/layout/activity_register_info.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/layout/activity_sign_in_option.xml" value="0.22" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/layout/activity_sign_up_option.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/deven/AndroidStudioProjects/EmailAuth/app/src/main/res/layout/activity_splash_screen.xml" value="0.14666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
